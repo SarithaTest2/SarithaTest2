@@ -6,7 +6,8 @@
     <title>Customer Churn Prediction</title>
 
 <h1 style="display: flex; align-items: center;">
-        <img src="C:\Users\sagis003\OneDrive - Vodafone Group\Desktop\Ranger Predict.png" alt="Ranger Predict" title="Ranger Predict" 
+        <img src="https://github.com/SarithaTest2/SarithaTest2/blob/main/Ranger%20Predict.png
+)" alt="Ranger Predict" title="Ranger Predict" 
 style="width: 50px; height: 50px; margin-right: 50px;"> 
 <span style="color: red; margin-left: -30px;">Ranger Predict</span>
     </h1>
